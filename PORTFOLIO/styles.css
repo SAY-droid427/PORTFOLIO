@@ -1,0 +1,126 @@
+#jumb
+{
+    background-color:white;
+}
+body{
+    background:linear-gradient(to left,rgb(0,0,0) ,rgb(32, 49, 74),rgb(2, 99, 99));
+    background:cover;
+}
+
+.container
+{
+    display:flex;
+    
+}
+.container-item
+{
+    background-color:white;
+    color:black;
+    height:40px;
+    width:200px;
+    padding:30px;
+    margin:10px;
+    border:5px black;
+    text-align:center;
+}
+.hell
+{
+    color:white;
+    text-align:center;
+    font-family: 'Lobster', cursive;
+    
+}
+.para
+{
+    color:white;
+    font-size: 20px;
+
+}
+.head
+{
+    color:white;
+}
+.headings
+{
+    color:white;
+}
+.para
+{
+    color:white;
+    font-size:25px;
+}
+.he
+{
+    color:white;
+     ;
+}
+.h{
+    color:white;
+}
+#cin
+{
+    height:500px;
+    float:right;
+    
+    
+}
+.whit
+{
+     height:60px; 
+     width:80px;
+}
+#details
+{
+    background:linear-gradient(to left,rgb(252, 250, 245),rgb(255, 235, 184));
+}
+.list
+{
+    color:white;
+    font-size:25px;
+}
+#im
+{
+    height:50px;
+    
+}
+.container
+{
+    display:flex;
+}
+body{
+    background:linear-gradient(to left,rgb(0,0,0) ,rgb(32, 49, 74),rgb(2, 99, 99));
+    background:cover;
+}
+.pa
+{
+    color:white;
+    font-size: 20px;
+}
+.h
+{
+    color:white;
+    
+}
+.container-items
+{
+    padding:10px;
+    margin:5px;
+    border:5px;
+    flex-direction:column;
+}
+.pa1
+{
+    font-size: 60px;
+    text-transform: uppercase;
+    color:white;
+}
+.quote
+{
+    color:white;
+    font-size:30px;
+    font-family: 'Lobster', cursive;;
+}
+#a:hover,active,link,visited
+{
+      color:black;
+}
